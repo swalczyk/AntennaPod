@@ -1,1 +1,1 @@
-Moved: https://github.com/TinyScripter/WearPod
+Discontinued due to a new app: https://github.com/TinyScripter/EarLoft
